@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seol-A Translate"
+title                    : "HyungSik Hwang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "백주혜(白主惠)"
+name                     : "Hyungsik"
 description              : "中·韓/한·중 통번역(通飜譯)"
 url                      : "https://hyungsikh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,9 +103,9 @@ analytics:
     
 # Site Author
 author:
-  name             : "백주혜(白主惠)"
+  name             : "Hwang HyungSik"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "中·韓/한·중 통번역(通飜譯)"
+  bio              : "Numerical Simulation"
   location         : "Republic of Korea, Seoul"
   email            :
   links:
