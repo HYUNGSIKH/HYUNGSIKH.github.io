@@ -102,13 +102,13 @@ analytics:
     anonymize_ip         : # true, false (default)
     
 # Site Author
-author:
-  name             : "Hwang HyungSik"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Numerical Simulation"
-  location         : "Republic of Korea, Seoul"
-  email            :
-  links:
+# author:
+#  name             : "Hwang HyungSik"
+#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : "Numerical Simulation"
+#  location         : "Republic of Korea, Seoul"
+#  email            :
+#  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
