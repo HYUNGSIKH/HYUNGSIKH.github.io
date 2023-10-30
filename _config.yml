@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Hyungsik"
 description              : "中·韓/한·중 통번역(通飜譯)"
 url                      : "https://hyungsikh.github.io"
-baseurl                  : # "/about"
+baseurl                  : "/about"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/img/unsplash-image-2.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
